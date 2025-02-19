@@ -67,3 +67,5 @@ Complete business solution
 - 🔗 Personal GitHub Pages: [@miccy.github.io](https://miccy.github.io)
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
 - 📧 Email: [info@miccy.dev](mailto:info@miccy.dev)
+
+<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
