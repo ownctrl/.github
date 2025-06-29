@@ -48,4 +48,3 @@ The `.github` repository enables the organization to standardize and share:
 ---
 
 > This repository is strictly for organizational purposes. Please do not add project source code here.
-```
