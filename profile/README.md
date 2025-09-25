@@ -8,7 +8,7 @@ This is a private laboratory for internal development, innovation, and experimen
 ## 📫 Contact
 
 - 📧 General Inquiries: [info@ownctrl.org](mailto:info@ownctrl.org)
-- 🤝 Collaboration: [collab@ownctrl.org(mailto:collab@ownctrl.org)
+- 🤝 Collaboration: [collab@ownctrl.org](mailto:collab@ownctrl.org)
 
 ---
 
