@@ -1,19 +1,24 @@
-# 🧪 Miccy.dev - Organization
+# OwnCTRL - Organization
 
-Welcome to the Miccy.dev GitHub organization!  
-This is a private laboratory for internal development, innovation, and experimentation. To learn more about my public work, please visit my profile: [@miccy](https://github.com/miccy).
+Welcome to our GitHub organization profile!  
+This is a private laboratory for internal development, innovation, and experimentation.
 
 ---
 
 ## 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/miccy)
-- 📧 General Inquiries: [info@miccy.dev](mailto:info@miccy.dev)
-- 🤝 Collaboration: [collab@miccy.dev](mailto:collab@miccy.dev)
+- 📧 General Inquiries: [info@ownctrl.org](mailto:info@ownctrl.org)
+- 🤝 Collaboration: [collab@ownctrl.org(mailto:collab@ownctrl.org)
 
 ---
 
 > **Note:**  
-> Projects and code in this organization are experimental and intended for internal use. For professional references or collaboration, please use the contact information above or view my [public profile](https://github.com/miccy).
+> Projects and code in this organization are experimental and intended for internal use. For professional references or collaboration, please use the contact information. above.
 
 Thank you for visiting!
+
+---
+
+<div align="center">
+  <p>🛠 Maintained by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
+</div>
