@@ -12,13 +12,6 @@ This is a private laboratory for internal development, innovation, and experimen
 
 ---
 
-> **Note:**  
-> Projects and code in this organization are experimental and intended for internal use. For professional references or collaboration, please use the contact information. above.
-
-Thank you for visiting!
-
----
-
 <div align="center">
   <p>🛠 Maintained by <a href="https://github.com/miccy">@miccy</a> with 💙</p>
 </div>
