@@ -3,8 +3,6 @@
 Welcome to our GitHub organization profile!  
 This is a private laboratory for internal development, innovation, and experimentation.
 
----
-
 ## 📫 Contact
 
 - 📧 General Inquiries: [info@ownctrl.org](mailto:info@ownctrl.org)
