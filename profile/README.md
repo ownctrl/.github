@@ -1,4 +1,4 @@
-# OwnCTRL - Organization
+# ownCTRL™ - Lab
 
 Welcome to our GitHub organization profile!  
 This is a private laboratory for internal development, innovation, and experimentation.
